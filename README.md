@@ -48,6 +48,13 @@
 
 ![env 4](https://user-images.githubusercontent.com/96472173/216368854-a41535dd-4a81-4c96-b544-7c79da08cf25.png)
 # Save and go to restart your pc
+# Start creating your backend server 
+# Create file schema.sql that containe creation of your dtata base and tables Next create config file to add configuration and connsection your database chek the ./configurationMySQL/cinfig.js 
+
+# then run in the terminal mysql -u root -p <schema.sql then run your server 
+
+
+# Intro to DBMS  database base mangment system https://docs.google.com/presentation/d/1ZZ2RHQOkQlBpTzQt1VBCMSqPEdYMiEU8_6zHflDPETA/embed?slide=id.gd9c406d18b_0_0
 
 
 
