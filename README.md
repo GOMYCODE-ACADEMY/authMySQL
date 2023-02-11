@@ -1,6 +1,7 @@
 # authMySQL
 #Instruction for install MySQL for windows
-# First step downlowd mySQL https://www.mysql.com/fr/downloads/
+# First step download mySQL from the link below :
+ https://www.mysql.com/fr/downloads/
 
 ![mysql 1](https://user-images.githubusercontent.com/96472173/216312749-23c34394-22b6-42da-ba94-09b234eb5132.png)
 
@@ -12,15 +13,15 @@
 
 ![Inkedmysql 3](https://user-images.githubusercontent.com/96472173/216313056-d50c4eae-db1f-44d3-8cc5-ff4ae39df3d5.jpg)
  
- # Click downloads
+ # Click download
  
  ![Inkedmysql 4](https://user-images.githubusercontent.com/96472173/216313303-6dd99b0c-05dd-4b34-86a2-b3c36f7ba958.jpg)
 
-# It is not necessary to create an account with Oracle. Just click No thanks, just start my download. Or You can go to create account if you want
+# It is not necessary to create an account in the  Oracle. Just click "No thanks", then start my download. Or You can go to create account if you want :) 
 
 ![Inkedmysql 5](https://user-images.githubusercontent.com/96472173/216313604-9ca8e973-d4f6-4ecd-932c-6f479e5b10b3.jpg)
 
-# Go ahead and follow the installation steps
+# Go ahead and follow the installation steps:
 
 ![Inkedmysql 6](https://user-images.githubusercontent.com/96472173/216313828-bd06d6a1-6ec0-42db-9220-10f654c2173b.jpg)
 ![Inkedmysql 7](https://user-images.githubusercontent.com/96472173/216313843-4b90ae15-0f5b-4fca-adfa-8d27fd67d3c5.jpg)
@@ -39,7 +40,7 @@
 
 ![env 2](https://user-images.githubusercontent.com/96472173/216367565-1e8edf13-7545-4412-bbce-d2f2f67e8aef.png)
 
-# Select path and Click modifier 
+# Select path and Click "modifier" / "modify" 
 
 ![env 3](https://user-images.githubusercontent.com/96472173/216368516-6ef22f67-1530-4f24-84cd-b083e6add004.png)
 
@@ -47,13 +48,15 @@
 
 
 ![env 4](https://user-images.githubusercontent.com/96472173/216368854-a41535dd-4a81-4c96-b544-7c79da08cf25.png)
-# Save and go to restart your pc
+# Save and then you have to restart your PC
 # Start creating your backend server 
-# Create file schema.sql that containe creation of your dtata base and tables Next create config file to add configuration and connsection your database chek the ./configurationMySQL/cinfig.js 
+# Create file schema.sql that contain the  creation of your database and tables, 
+then  create config file to add a configuration and connection to your database : check the "./configurationMySQL/cinfig.js "
 
-# then run in the terminal mysql -u root -p <schema.sql then run your server 
+# Then run in the terminal "mysql -u root -p <schema.sql"  then run your server 
 
-
+PS : these slides will help you to manage the workshop, 
+You can enhance your knowledge by seeking information in the internet
 # Intro to DBMS  database base mangment system https://docs.google.com/presentation/d/1ZZ2RHQOkQlBpTzQt1VBCMSqPEdYMiEU8_6zHflDPETA/embed?slide=id.gd9c406d18b_0_0
 
 
