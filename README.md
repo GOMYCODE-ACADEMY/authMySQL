@@ -49,9 +49,9 @@
 
 ![env 4](https://user-images.githubusercontent.com/96472173/216368854-a41535dd-4a81-4c96-b544-7c79da08cf25.png)
 # Save and then you have to restart your PC
-# Start creating your backend server 
+# Start creating your backend server (index.js)
 # Create file schema.sql that contain the  creation of your database and tables, 
-then  create config file to add a configuration and connection to your database : check the "./configurationMySQL/cinfig.js "
+# then  create config file to add a configuration and connection to your database : check the "./configurationMySQL/cinfig.js "
 
 # Then run in the terminal "mysql -u root -p <schema.sql"  then run your server 
 
